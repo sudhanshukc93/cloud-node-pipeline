@@ -11,10 +11,10 @@ const server = http.createServer((req, res) => {
         <!DOCTYPE html>
         <html>
         <head>
-            <title>Cloud Node Pipeline</title>
+            <title>Cloud Node Pipeline v2</title>
         </head>
         <body>
-            <h1>🚀 Cloud Node Pipeline</h1>
+            <h1>🚀 Cloud Node Pipeline v2</h1>
             <h2>GitHub Actions + Docker + GHCR</h2>
             <p>This application is automatically built and published through CI/CD.</p>
         </body>
