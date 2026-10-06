@@ -1,0 +1,9 @@
+{
+  "name": "cloud-node-pipeline",
+  "version": "1.0.0",
+  "description": "Node.js application with GitHub Actions and GHCR CI/CD",
+  "main": "application.js",
+  "scripts": {
+    "start": "node application.js"
+  }
+}
